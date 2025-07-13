@@ -1,1 +1,15 @@
 django
+psycopg2-binary
+dj-database-url
+Pillow
+django-bootstrap-v5
+timeago
+djangorestframework
+markdown
+django-filter
+dj-rest-auth
+django-storages
+google-cloud-storage
+django-tinymce
+python-dotenv
+python-dateutil
